@@ -15,7 +15,7 @@ function Footer() {
     >
         <div className='w-[90%] md:w-[80%] mx-auto py-10 grid grid-cols-1 md:grid-cols-3 gap-10 border-b border-green-500/40'>
           <div>
-<h2  className='text-2xl font-bold mb-3'>Snapcart</h2>
+<h2  className='text-2xl font-bold mb-3'>NexDrop</h2>
 <p className='text-sm text-green-100 leading-relaxed'> Your one-stop online grocery store delivering freshness to your doorstep.  
             Shop smart, eat fresh, and save more every day!
 </p>
@@ -59,7 +59,7 @@ function Footer() {
 </div>
 
 <div className="text-center py-4 text-sm text-green-100 bg-green-800/40">
-        © {new Date().getFullYear()} <span className="font-semibold">Snapcart</span>. All rights reserved.
+        © {new Date().getFullYear()} <span className="font-semibold">NexDrop</span>. All rights reserved.
       </div>
 
       

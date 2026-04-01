@@ -42,7 +42,7 @@ export async function POST(req:NextRequest) {
         price_data: {
           currency: 'inr',
           product_data: {
-            name: 'SnapCart Order Payment',
+            name: 'NexDrop Order Payment',
           },
           unit_amount:totalAmount*100,
         },
